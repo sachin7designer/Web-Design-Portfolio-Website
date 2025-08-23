@@ -559,7 +559,7 @@ textarea.form-control {
 	bottom: 0;
 	right: 0;
 	left: 0;
-	padding: 2rem 4rem;
+	padding: 1rem 1rem;
 	background-color: rgba(124, 233, 230, 0.1);
 	text-align: center;
 
@@ -711,6 +711,7 @@ textarea.form-control {
 		right: -4%;
 		top: 17%;
 	}
+
 
 
 }
